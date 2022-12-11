@@ -1,5 +1,7 @@
+[![MasterHead](https://whoswhoinblack.com/wp-content/uploads/2022/03/GettyImages-1289956604.jpg)]
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">Web Developer | App Developer</h3>
+<img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codehub-xg9&label=Profile%20views&color=0e75b6&style=flat" alt="codehub-xg9" /> </p>
 
@@ -19,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codehub-xg9&show_icons=true&locale=en&layout=compact" alt="codehub-xg9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codehub-xg9&show_icons=true&locale=en" alt="codehub-xg9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codehub-xg9&" alt="codehub-xg9" /></p>
