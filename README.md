@@ -1,4 +1,4 @@
-[![MasterHead](https://whoswhoinblack.com/wp-content/uploads/2022/03/GettyImages-1289956604.jpg)]
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif)]
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">Web Developer | App Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
