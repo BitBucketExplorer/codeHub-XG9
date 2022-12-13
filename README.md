@@ -1,22 +1,23 @@
+[![MasterHead](https://whoswhoinblack.com/wp-content/uploads/2022/03/GettyImages-1289956604.jpg)](https://codeHub-XG9.io)
 [![MasterHead](https://www.allthingsdistributed.com/images/blockchain-banner.jpg)](https://hubsMIT1.io)
 <!-- <img  align="right" alt="Coding"  width="400"src="https://www.allthingsdistributed.com/images/blockchain-banner.jpg" -->
-<h1 align="center">Hi, I'm Shivanand 👋</h1>
+<h1 align="center">Hi, I'm I'm Vivek 👋</h1>
 <h3 align="center">Web Developer | App Developer 🔰</h3>
 
 <!--      "https://i.gifer.com/HaD1.gif" > -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubsmit1&label=Profile%20views&color=0e75b6&style=flat" alt="hubsmit1" /> </p>
-<img  align="right" alt="Coding"  width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<img  align="right" alt="Coding"  width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 <!--                                                    https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif"> -->
 - 💬 Ask me about : **Web/App development,Blockchain,DApp**
 
 - 💻 Platform : **VS,Android Studio,Linux,Git,Cryptography**
 
-- 📫 How to reach me [shivayn50@gmail.com](shivayn50@gmail.com)
+- 📫 How to reach me [vy.code92@gmail.com](vy.code92@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shiva y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva y" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek " height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
