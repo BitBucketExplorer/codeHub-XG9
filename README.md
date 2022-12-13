@@ -5,7 +5,7 @@
 
 <!--      "https://i.gifer.com/HaD1.gif" > -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeHub-XG9&label=Profile%20views&color=0e75b6&style=flat" alt="codeHub-XG9" /> </p>
-<img  align="right" alt="Coding"  width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img  align="right" alt="Coding"  width="400" src="https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif">
 <!--                                                    https://i.pinimg.com/originals/57/a2/8b/57a28bbf8e5fd8338c145f88a107f2f2.gif"> -->
 - 💬 Ask me about : **Web/App development,Blockchain,DApp**
 
