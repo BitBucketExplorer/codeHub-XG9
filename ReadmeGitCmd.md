@@ -1,19 +1,19 @@
-### Git Commonds
+# Git Commonds
 
-# Create git ignore file in folder directory
+### Create git ignore file in folder directory
 > touch .gitignore
 
-# Initialize empty git
+### Initialize empty git
 > git init -b main
 
-## Add changes and commit them
+### Add changes and commit them
 > git add . && git commit -m "initial commit"
 
-# Bind git with Repository url
+### Bind git with Repository url
 > git remote add origin <REMOTE-URL>
   
-# Check Remote 
+### Check Remote 
 > git remote -v
   
-## Push The code
+### Push The code
 > git push origin main
