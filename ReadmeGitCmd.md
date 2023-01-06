@@ -1,6 +1,6 @@
-###Git Commonds
+### Git Commonds
 
-#Create git ignore file in folder directory
+# Create git ignore file in folder directory
 > touch .gitignore
 
 # Initialize empty git
@@ -12,7 +12,7 @@
 # Bind git with Repository url
 > git remote add origin <REMOTE-URL>
   
- #Check Remote 
+# Check Remote 
 > git remote -v
   
 ## Push The code
